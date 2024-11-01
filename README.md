@@ -1,8 +1,8 @@
-SwiftDemand API
+<b>SwiftDemand API</b> <br>
 SwiftDemand is a Django REST API built to power an on-demand service platform where customers can easily book services from professionals. This API focuses on seamless service booking functionality with robust authentication, authorization, and role-based access control.
 
-Features
-User Management<br>
+Features <br>
+User Management <br>
 Custom User Model: Supports different roles—customers and providers—each with specific permissions and access.
 User Registration: New users can register with relevant profile details, and providers can manage their offered services.
 Authentication & Authorization
