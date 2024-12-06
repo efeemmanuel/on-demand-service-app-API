@@ -1,4 +1,4 @@
-app_name = "swiftapi"
+pp_name = "swiftapi"
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from .views import CustomUserViewSet, ServiceViewSet, BookingViewSet, RegistrationView
