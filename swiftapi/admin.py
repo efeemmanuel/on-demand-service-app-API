@@ -15,5 +15,5 @@ from django.contrib.auth.admin import UserAdmin
 
 admin.site.register(CustomUser)
 
-admin.site.register(Service
+admin.site.register(Service)
 admin.site.register(Booking)
