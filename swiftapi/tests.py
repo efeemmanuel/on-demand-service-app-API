@@ -2,7 +2,7 @@ from django.test import TestCase
 from rest_framework.test import APIClient
 from django.urls import reverse
 from .models import CustomUser, Service, Booking
-# Create your tests here.
+# Create your tests here
     
 
 
